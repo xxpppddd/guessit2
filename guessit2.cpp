@@ -27,5 +27,6 @@ int main() {
             low = X+1;
         }
     }
+    return 0;
 
 }
